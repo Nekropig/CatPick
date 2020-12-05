@@ -4,7 +4,7 @@ load_dotenv()
 
 import os
 
-AVATAR_PICTURE = 'cat'  # Укажите, что бы вы хотели видеть на аватарке
+AVATAR_PICTURE = 'cat'  # Укажите, что бы вы хотели видеть на аватарке бла
 
 UNSPLASH_URL = f'https://source.unsplash.com/featured/?{AVATAR_PICTURE}'
 # За другими вариантами рандомного изображения можно сходить сюда https://source.unsplash.com/
